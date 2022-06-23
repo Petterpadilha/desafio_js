@@ -22,5 +22,3 @@ function arrayAvg(val) {
 }
 
  console.log(arrayAvg(["ok", 15,8, 20,{},'text', 8,1.3]))
- console.log(arrayAvg(["ok", 15,8, 20,{},'text', 8,1.3]))
- console.log(arrayAvg(["ok", 15,8, 20,{},'text', 8,1.3]))
