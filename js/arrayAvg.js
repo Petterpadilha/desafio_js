@@ -18,7 +18,7 @@ function arrayAvg(val) {
 
             return total;
         }, 0);
-    return media.toFixed(2);
+    return parseFloat(media.toFixed(2));
 }
 
- console.log(arrayAvg(["ok", 15,8, 20,{},'text', 8,1]))
+ console.log(arrayAvg(["ok", 15,8, 20,{},'text', 8,1,5.5]))
