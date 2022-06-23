@@ -9,7 +9,7 @@ devem ser ignorados e removidos do cálculo;
 function arrayAvg(val) {
     let media = val
         .filter((num) => typeof num === "number")
-        .reduce(function (total, item, indice, array) {
+        .reduce( (total, item, indice, array) => {
             total += item;
 
             if (indice == array.length - 1) {
@@ -21,4 +21,4 @@ function arrayAvg(val) {
     return media.toFixed(2);
 }
 
- console.log(arrayAvg(["ok", 15,8, 20,{},'text', 8,1.3]))
+ console.log(arrayAvg(["ok", 15,8, 20,{},'text', 8,1]))
