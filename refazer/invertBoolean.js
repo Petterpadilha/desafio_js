@@ -4,7 +4,7 @@ tipo boolean, e retorna o boolean invertido.
 */
 
 function invertBoolean(val) {
-  return !val
+    return !val;
 }
 /*
 função recebe um parâmetro, que precisa retornar um valor invertido passado,
