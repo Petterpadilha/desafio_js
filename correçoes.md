@@ -1,22 +1,38 @@
-# arraySum
-Não funciona qdo o primeiro intem do array é uma string
+# Geral
+Verificar identação (de novo);
+Verificar ";" no final dos comandos;
 
+# arrayAvg
+Não precisa do parse float e do toFixed;
+Tirar a verificação de ultimo indice de dentro do reduce,
+é processamento desnecessário;
+Explicar solução;
+
+# arraySum
+Explicar melhor como funciona cada método (filter, reduce) e as funções dos callbacks;
 
 # cleanExtraSpaces
-Não remove caracteres do inicio e do final da string
-
-
-# filterOddNumbers
-Nome de variavel sempre começa com minusculas
-
+Explicar melhor como funciona cada método (trim, replace, regex);
+Falta ";" no final do comando;
 
 # invertBoolean
-Sempre finalizar linhas de comando com ";"
-
-
-# isLengthBetween10and20
-Não funciona, se passar o numero 15 ele devolve falso
-
+Continua sem ";" no final dos comandos;
 
 # wordReverse
-Método reverse não tem parametros
+Padronização no uso de aspas, geralmente usamos ' ao invés de ";
+Explicar com mais precisão o que faz cada método;
+
+# isPositiveAndNegative
+Explicar detalhadamente o que está acontecendo nesse calculo;
+
+# isLeapYear
+A explicação não faz referencia a como funciona a classe date, explicar detalhadamente como funciona a solução;
+
+# isGreaterThan100AndMultipleOf3
+Explicar detalhadamente o que está acontecendo nesse calculo;
+
+# invertSign
+É possível simplificar usando o operador "or";
+
+# groupByOddEven
+Usar reduce para solucionar o problema
