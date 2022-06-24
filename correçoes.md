@@ -15,10 +15,10 @@ Explicar melhor como funciona cada método (filter, reduce) e as funções dos c
 Explicar melhor como funciona cada método (trim, replace, regex);
 Falta ";" no final do comando;
 
-# invertBoolean
+# invertBoolean reduce Resolvido
 Continua sem ";" no final dos comandos;
 
-# wordReverse
+# wordReverse Resolvido
 Padronização no uso de aspas, geralmente usamos ' ao invés de ";
 Explicar com mais precisão o que faz cada método;
 

@@ -10,9 +10,7 @@ function isPositiveAndNegative(val1, val2) {
 // Explicação
 
 /* 
-Função recebe um parâmetro , que precisa retornar um boolean indicando se o valor retornado é verdadeiro ou falso,
-para isso fazer esse calculo valor < 0 && valor > 0 || valor > 0 && valor < 0, quando os dois numero um for positivo e o outro negativo,
-o valor retornado é verdadeiro, senão o valor é falso.
+
 */
 
 
