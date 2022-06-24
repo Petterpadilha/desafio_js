@@ -9,9 +9,10 @@ function cleanExtraSpaces(val) {
 }
 //Explicação
 /*
-Função recebe um parâmetro que precisa retornar um valor, removendo os espaços desnecessários,
-para isso utilizamos replace() retorna uma nova função, e utilizamos uma função do regExp(/ \s+|\s+$/g, " ") com esses,
-parametro removemos os espaços sobrando.
+Função recebe um parâmetro, e precisa retornar uma string, removendo os espaço desnecessário,
+para fazer isso utilizaremos o trim e o replace e o regex, o metodo trim remove os espaço no inicio e no final,
+o replace retorna uma nova string, substituindo as ocorrencias, o regex é uma combinação regulares, que seleciona as 
+combinações de caracteres em uma string.
  */
 // console.log(cleanExtraSpaces('Hello                                             Word'));
 // console.log(cleanExtraSpaces('Plantai                       Gestão                        Agrícula'));
