@@ -28,7 +28,7 @@ Explicar detalhadamente o que está acontecendo nesse calculo;
 # isGreaterThan100AndMultipleOf3 Resolvido
 Explicar detalhadamente o que está acontecendo nesse calculo;
 
-# invertSign
+# invertSign Resolvido
 É possível simplificar usando o operador "or";
 
 # groupByOddEven
