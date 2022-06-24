@@ -5,7 +5,7 @@ ou mais espaços, e retorna uma string removendo excessos de espaços.
  */
 
 function cleanExtraSpaces(val) {
-    return val.trim().replace(/\s+|\s+$/g, " ")
+    return val.trim().replace(/\s+|\s+$/g, ' ');
 }
 //Explicação
 /*
@@ -17,5 +17,3 @@ combinações de caracteres em uma string.
 // console.log(cleanExtraSpaces('Hello                                             Word'));
 // console.log(cleanExtraSpaces('Plantai                       Gestão                        Agrícula'));
 // console.log(cleanExtraSpaces('Av Maria '));
-
-

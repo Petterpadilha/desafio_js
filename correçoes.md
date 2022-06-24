@@ -8,10 +8,10 @@ Tirar a verificação de ultimo indice de dentro do reduce,
 é processamento desnecessário;
 Explicar solução;
 
-# arraySum Resolvido
+# arraySum Resolvido 
 Explicar melhor como funciona cada método (filter, reduce) e as funções dos callbacks;
 
-# cleanExtraSpaces
+# cleanExtraSpaces Resolvido
 Explicar melhor como funciona cada método (trim, replace, regex);
 Falta ";" no final do comando;
 
