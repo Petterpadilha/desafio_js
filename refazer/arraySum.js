@@ -13,6 +13,8 @@ function arraySum(list) {
 
 // Explicação
 /* 
-Função recebe um parâmetro e precisa retornar um valor, calculando a soma entre o array,
-para isso utilizamos um metodo reduce para calcular o array, o valor que vai retornar sera a soma dos array.
+Função recebe um parâmetro e precisa retornar a soma dos valores entre os array, ignorando os outros
+tipos que não forem numero, para isso vamos utilizar o filter e o reduce, filter cria um novo array com todos, os
+elementos que forem implementado pela função, e reduce executa cada função fornecida para cada elemento do array, 
+ele retorna um valor, e a função callbacks testa cada elemento se ele é verdadeiro ou falso.
 */
