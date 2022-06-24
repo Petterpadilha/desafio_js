@@ -12,6 +12,6 @@ function invertSign(val) {
    Função recebe um parâmetro e precisa retornar um número invertido,
    para isso fazemos esse calculo valor * -1
 */
-console.log(invertSign(1))
-console.log(invertSign(-2))
-console.log(invertSign(0))
+// console.log(invertSign(1))
+// console.log(invertSign(-2))
+// console.log(invertSign(0))

@@ -32,7 +32,7 @@ Explicar detalhadamente o que está acontecendo nesse calculo;
 É possível simplificar usando o operador "or";
 
 # groupByOddEven
+Usar reduce para solucionar o problema
 
 # isLeapYear
 A explicação não faz referencia a como funciona a classe date, explicar detalhadamente como funciona a solução;
-Usar reduce para solucionar o problema
