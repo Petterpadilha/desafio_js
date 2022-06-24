@@ -22,17 +22,17 @@ Continua sem ";" no final dos comandos;
 Padronização no uso de aspas, geralmente usamos ' ao invés de ";
 Explicar com mais precisão o que faz cada método;
 
-# isPositiveAndNegative
+# isPositiveAndNegative Resolvido
 Explicar detalhadamente o que está acontecendo nesse calculo;
 
-# isLeapYear
-A explicação não faz referencia a como funciona a classe date, explicar detalhadamente como funciona a solução;
-
-# isGreaterThan100AndMultipleOf3
+# isGreaterThan100AndMultipleOf3 Resolvido
 Explicar detalhadamente o que está acontecendo nesse calculo;
 
 # invertSign
 É possível simplificar usando o operador "or";
 
 # groupByOddEven
+
+# isLeapYear
+A explicação não faz referencia a como funciona a classe date, explicar detalhadamente como funciona a solução;
 Usar reduce para solucionar o problema

@@ -8,9 +8,9 @@ function isGreaterThan100AndMultipleOf3(val) {
 }
 
 /* 
-Função recebe um parâmetro, e precisa retornar um boolean indicando se o numero é maior que 100,
-e múltiplo de 3, para isso fazemos esse calculo val > 100 && val % 3 == 0, 
-caso o número for retorna verdadeiro, senão ele retornar um valor falso.
+Funçao recebe um parâmetro e prcisa retorna um boolean indicando indicando se o valor é maior que 100, e também é um múltiplo de 3,
+para isso faremos esse calculo valor recebido e maior que 100, e também o resto da divisão desse valor é igual a zero, se for o valor
+retornado sera verdadeiro ele é maior que 100 , e também é um múltiplo de 3 senão o resultado séra falso.
 */
 
 // console.log(isGreaterThan100AndMultipleOf3(300));
