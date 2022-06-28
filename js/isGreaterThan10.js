@@ -7,7 +7,7 @@ function isGreaterThan10(val) {
   return val > 10
 }
 
-/* 
+/*
 Função recebe um parâmetro e precisa retornar um valor boolean se,
 se o valor é maior que 10 ou não.
 Para isso fazemos esse calculo valor > 10 se for o valor retornado é verdadeiro, senão o valor é falso.

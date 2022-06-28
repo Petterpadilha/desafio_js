@@ -9,7 +9,7 @@ function isMultipleOf5(val) {
 // Explicação
 
 /*
-Funçao recebe um parâmetro, que precisa retornar um boolean indicando, se o número é um múltiplo de 5, 
+Funçao recebe um parâmetro, que precisa retornar um boolean indicando, se o número é um múltiplo de 5,
 para isso fazemos esse calculo valor % 5 === 0, quando o número for igual a zero, o valor retornado é verdadeiro,
 senão o valor retornado é falso.
 */

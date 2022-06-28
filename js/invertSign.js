@@ -4,7 +4,7 @@ do tipo number e retorna um number que é o próprio parâmetro.
 */
 
 function invertSign(val) {
-     return val * -1 || val
+    return val * -1 || val
 }
 
 // Explicação

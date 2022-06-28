@@ -8,7 +8,7 @@ function isEven(val) {
 }
 // explicação
 
-/* 
+/*
 Funçao recebe um parâmetro que precisa retornar se o número é impar ou par,
 para fazer isso a melhor  maneira é utilizar % o resto da divisão.
 Então quando o valor % 2 der o resto 0, o número é par, caso contrario o número é impar.

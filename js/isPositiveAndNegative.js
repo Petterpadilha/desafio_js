@@ -9,7 +9,7 @@ function isPositiveAndNegative(val1, val2) {
 
 // Explicação
 
-/* 
+/*
 Funão recebe um parametro e precisa retornar dois valores, positivo e negativo, para o retorno ser verdadeiro,
 senão o resultado sera falso, para isso utilizaremos esse calculo valor1 é menor que 0 e valor2 é maior que zero, faremos outra condição
 ou valor1 é maior que 0 e valor2 é menor que zero, se essas condições forem verdadeira, o resultado retornado séra verdadeiro,
