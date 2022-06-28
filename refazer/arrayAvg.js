@@ -20,5 +20,10 @@ function arrayAvg(val) {
         }, 0);
     return media;
 }
-
+/*
+ Função rece um parâmetro, que precisa retornar um valor calculando a media entre os array e removendo ou ignorando os outros tipos,
+ para isso utilizaremos uma propriedade chamado typeof pra verificar se é um número , depois dessa verificaçao, vamos utilizar,
+ filter, buscar de dentro do array apenas numeros, e por ultimo utilizaremos reduce para somar os numero dentro do array, e utilizaremos
+ uma propriedade length para contar quantos numeros tem dentro do array, para conseguir retornar o valor calculando a media
+*/
 console.log(arrayAvg(["ok", 15, 8, 20, {}, 'text', 8, 1, 5.5]))
