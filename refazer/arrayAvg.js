@@ -7,18 +7,18 @@ devem ser ignorados e removidos do cálculo;
 */
 
 function arrayAvg(val) {
-    let media = val
-        .filter((num) => typeof num === "number")
-        .reduce((total, item, indice, array) => {
-            total += item;
+  let media = val
+    .filter((num) => typeof num === 'number')
+    .reduce((total, item, indice, array) => {
+      total += item
 
-            if (indice == array.length - 1) {
-                return total / array.length;
-            }
+      if (indice == array.length - 1) {
+        return total / array.length
+      }
 
-            return total;
-        }, 0);
-    return media;
+      return total
+    }, 0)
+  return media
 }
 /*
  Função recebe um parâmetro, que precisa retornar um valor calculando a media entre os array e removendo ou ignorando os outros tipos,
@@ -26,4 +26,4 @@ function arrayAvg(val) {
  filter, buscar de dentro do array apenas numeros, e por ultimo utilizaremos reduce para somar os numero dentro do array, e utilizaremos
  uma propriedade length para contar quantos numeros tem dentro do array, para conseguir retornar o valor calculando a media
 */
-console.log(arrayAvg(["ok", 15, 8, 20, {}, 'text', 8, 1, 5.5]))
+console.log(arrayAvg(['ok', 15, 8, 20, {}, 'text', 8, 1, 5.5]))
