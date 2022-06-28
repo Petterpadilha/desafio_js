@@ -5,9 +5,9 @@ val, do tipo string e retorna um number, com a contagem das vogais.
 
 function countVowels(val) {
     const count = val.match(/[aeiouáàãâäéèẽêëíìîïóòõôöúùûü]/gi).length;
-
     return count;
 }
+
 // Expicação
 /*
 Função recebe um parâmetro chamada, e precisa retornar um valor numerico, com as contagem das vogais,

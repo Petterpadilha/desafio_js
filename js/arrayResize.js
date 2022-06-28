@@ -6,7 +6,7 @@ list limitados pelo tamanho do parâmetro size.
 */
 
 function arrayResize(list, size) {
-  return list.slice(0, size);
+    return list.slice(0, size);
 }
 /*
   Função recebe um parâmetro, que precisa retorna um array listando os itens,
