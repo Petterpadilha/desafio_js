@@ -18,5 +18,5 @@ function groupByOddEven(list) {
  fazendo esse calculo vai retornar números ímpar e números par.
  */
 
- // list.filter(i => { (i % 2 === 0 ? even : odd).push(i); });
+ 
     // return { even, odd };

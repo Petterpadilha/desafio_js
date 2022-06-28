@@ -4,7 +4,7 @@ palavras, separadas por espaço e retorne uma string, com as palavras invertidas
 */
 
 function wordReverse(text) {
-    return text.split(' ').reverse().join(' ')
+    return text.split(' ').reverse().join(' ');
 }
 
 /*
