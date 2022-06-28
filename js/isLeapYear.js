@@ -7,9 +7,9 @@ function isLeapYear(date) {
     return new Date(date, 1, 29).getMonth() == 1;
 }
 /*
-Função retorna um parâmetro, que precisa retornar um valor boolean, se o ano for bisexto é verdadeiro, senão é falso,
-para saber se o ano é bisexto new Date(date, 1, 29).getMonth() == 1.
-Para isso vamos checar se o mês de fevereiro for até 29 dias, quando o mês for até 29 é bisexto, senão não é bisexto.
+Função recebe um parâmetro e precisa retornar um valor boolean indicando se o ano é bisexto é verdadeiro ou falso,
+para isso precisamos verificar se o mês de fevereiro vai até dia 29, se o mês de fevereiro for até  29 então o ano é bisexto,
+para todos os outros caso o valor é falso.
 */
 console.log(isLeapYear(2144))
 console.log(isLeapYear(2020))
