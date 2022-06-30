@@ -10,4 +10,5 @@ function PctNumber50(val) {
  A função recebe um parâmetro, e precisa retornar um valor de 50% do valor,
   então fazemos o seguinte cálculo 50/100 multiplica pelo valor recebido.
 */
-console.log(PctNumber50(8))
+// console.log(PctNumber50(8))
+
