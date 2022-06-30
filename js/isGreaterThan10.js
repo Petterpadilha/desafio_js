@@ -4,7 +4,7 @@ Faça uma função chamada isGreaterThan10 que recebe um parâmetro, chamado val
  */
 
 function isGreaterThan10(val) {
-  return val > 10
+    return val > 10;
 }
 
 /*

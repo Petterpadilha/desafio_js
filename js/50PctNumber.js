@@ -4,7 +4,7 @@ number equivalente a 50% do valor do parâmetro;
 */
 
 function PctNumber50(val) {
-  return (50 / 100) * val
+    return (50 / 100) * val;
 }
 /*
  A função recebe um parâmetro, e precisa retornar um valor de 50% do valor,

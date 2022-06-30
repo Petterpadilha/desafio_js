@@ -14,6 +14,5 @@ function arrayResize(list, size) {
   slice precisa receber dois números, inicio e o fim.
 */
 
-
 // console.log(arrayResize([18,20,30,'ok',25,24],5))
 // console.log(arrayResize([18,20,30,25,24],3))

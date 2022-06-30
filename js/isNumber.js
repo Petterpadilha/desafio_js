@@ -4,7 +4,7 @@ retorna um boolean indicando, se o parâmetro é do tipo number.s
 */
 
 function isNumber(val) {
-  return typeof val === 'number'
+    return typeof val === 'number'
 }
 /*
 Função recebe um parâmetro, que precisa retornar um boolean indicando se o valor é verdadeiro ou falso,
